@@ -1,0 +1,246 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+body {
+  color: #555;
+  margin: 0;
+  background-color: #FFF5EE;
+  font-family: "Montserrat", sans-serif;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+#header {
+  background-color: #483D8B;
+  height: 150px;
+  line-height: 150px;
+}
+
+#header a {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+#header a:hover {
+  color: #222;
+}
+
+#header-title {
+  margin-left: 20px;
+  display: block;
+  float: left;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#header-nav {
+  font-weight: bold;
+  display: block;
+  float: right;
+  margin-top: 0;
+}
+
+#header-nav li {
+  display: inline;
+  padding-left: 20px;
+}
+
+#footer {
+  background-color: #2f2f2f;
+  padding: 50px 0;
+}
+
+.column {
+  min-width: 300px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+#footer h4 {
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+#footer p {
+  color: white;
+  font-size: 20px;
+}
+
+.insta {
+  color: #FF00FF;
+}
+
+.gmail {
+  color: #F5F5DC;
+}
+
+.insta:hover {
+  color: #F6A623;
+}
+
+.gmail:hover {
+  color: #FF0000;
+}
+
+.post {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 60px 0;
+}
+
+.post-author img {
+  width: 50px;
+  height: 50px;
+  vertical-align: middle;
+}
+
+.post-date {
+  color: #BA55D3;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+h1, h2, h3, h4 {
+  color: #333;
+}
+
+p{
+  line-height: 1.5;
+}
+
+.left {
+  color: #555;
+  font-weight: bold;
+  padding: 10px 10px 20px 10px;
+  margin: 50px 0 0 40px;
+  vertical-align: left;
+  border: solid;
+  border-color: #483D8B;
+}
+
+.left a{
+ color: #BA55D3;
+}
+
+.left h3{
+  font-size: 23px;
+}
+
+.left li{
+ font-size: 16px;
+ font-weight: bold;
+}
+
+div #container {
+ width: 70%;
+ border: 1px solid #000;
+ text-align: center;
+}
+
+div.split2 div {
+ float: left;
+ width: 38%;
+}
+
+div.wide {
+ clear: left;
+}
+
+.chiara {
+ margin: 0 0 0 237px;
+}
+
+.left a:hover{
+ color: #FF00FF;
+}
+
+.face{
+    color: RoyalBlue;
+}
+
+.face:hover{
+ color: white;
+}
+
+a:hover{
+  color: #483D8B;
+}
+
+.chiara span{
+  font-size: 22px;
+  font-weight: bold;
+  font-family: cursive;
+}
+
+.christian span{
+  font-size: 22px;
+  font-weight: bold;
+  font-family: cursive;
+}
+
+a {
+  color: #1E90FE;
+  text-decoration: none;
+  margin-left: 0px;
+}
+
+.about-title{
+  margin-left: 20px;
+  display: block;
+  font-size: 30px;
+}
+
+.about-content{
+  margin-left: 20px;
+  display: block;
+}
+
+#aboutfooter-content{
+  margin-left: 202px;
+  display: block;
+}
+
+.aboutlast {
+  font-size: 20px;
+  margin: 40px 0 0 20px;
+  display: block;
+}
+
+.parigi{
+  margin: 0 0 0 20px;
+}
+
+#headerpa{
+  background-image: url("backpari.jpg");
+  height: 150px;
+  line-height: 150px;
+  background-position: center;
+}
+
+.containerpa{
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+#header-titlepa{
+  color: DarkSlateGrey;
+  margin-left: 20px;
+  display: block;
+  float: left;
+  font-size: 60px;
+  font-weight: bold;
+  font-family: cursive;
+}
+
+.home{
+  font-size: 30px;
+  font-weight: bold;
+  color: DarkSlateGrey;
+}
